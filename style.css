@@ -24,6 +24,7 @@ section{
 .img{
   height: 80%;
   padding-left: 10%;
+  padding-top: 20px;
 }
 
 .link-button{
@@ -37,4 +38,20 @@ section{
 .top-banner{
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
+}
+.dream-big{
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.img00101{
+  width: 700px;
+}
+
+.half-botom{
+padding-right: 200px;
+}
+
+.batton-text{
+  font-weight: 800;
 }
